@@ -1,0 +1,19 @@
+module Ayya where
+
+import Data.List
+
+main = do
+      putStrLn "idiosyncrasy"
+
+itung x = x * x * x
+
+sqr x = x * x
+
+cube x = (sqr x) * x
+
+phi = 3.144332345788234567890
+
+-- data + function
+-- data => domains
+-- data types Int, Integer, Char, FLoat
+-- data type Bool
